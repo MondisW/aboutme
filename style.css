@@ -1,0 +1,32 @@
+body{
+    background-image: url(idk.png);
+}
+
+#s1{
+    text-align: center;
+    background-color: purple;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+    width: 80%;
+
+}
+
+.good{
+    text-align: left;
+}
+
+#smol{
+    font-size: small;
+}
+
+ul{
+    list-style-type: '\2661';
+}
+
+footer{
+    color: whitesmoke;
+
+
+}
