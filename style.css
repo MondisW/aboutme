@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+h1{
+    color: blue;
+
+
+}
+
+
+hr{
+    color: blueviolet;
+
+
+}
+
+
+ul{
+    color: darkorange;
+    margin-inline: auto;
+    width: 25%;
+
+
+}
+
+p{
+    color: chartreuse;
+
+
+}
+
+
+li{
+    color: blueviolet;
+
+
+}
+footer{
+    color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
